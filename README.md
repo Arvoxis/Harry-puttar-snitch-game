@@ -53,25 +53,3 @@ harry-potter-opencv-games/
 
 ```
 
----
-
-## 🔥 **QUICK START (GitHub Desktop):**
-
-1. **Download GitHub Desktop** → Install
-2. **Create New Repository** → Name it
-3. **Copy your .py files** into the repo folder
-4. **Create** `requirements.txt` and `README.md`
-5. **Commit** → **Publish** → **DONE!** ✅
-
-Your repository will be at:
-`https://github.com/YOUR_USERNAME/harry-potter-opencv-games`
-
----
-
-## 💡 **PRO TIPS:**
-
-- Add a `.gitignore` file with:
-```
-  __pycache__/
-  *.pyc
-  .DS_Store
