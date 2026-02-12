@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ### Golden Snitch Chase
 ```bash
-python snitch_game_final.py
+python snitch.py
 ```
 - Point with your INDEX FINGER
 - Catch the flying snitches
