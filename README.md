@@ -39,9 +39,8 @@ Harry Potter themed escape room event at college expo
 ## 📝 License
 
 Free to use for educational purposes
-```
 
----
+
 
 ## 🎨 **RECOMMENDED FOLDER STRUCTURE:**
 ```
