@@ -4,26 +4,17 @@ Interactive Harry Potter themed games using OpenCV and MediaPipe hand tracking.
 
 ## 🎮 Games Included
 
-### 1. Golden Snitch Chase
+### Golden Snitch Chase
 Catch flying golden snitches using hand tracking!
 - Hand gesture control
 - Multiple difficulty levels
 - Power-ups and combos
 - Bludger obstacles
 
-### 2. Hogwarts Pest Control (Whack-a-Mole)
-Whack magical creatures with fist detection!
-- Closed fist detection
-- Multiple creature types
-- Don't hit Dobby!
-- Combo system
-
 ## 🚀 Installation
 ```bash
 pip install -r requirements.txt
 ```
-
-## 🎯 How to Play
 
 ### Golden Snitch Chase
 ```bash
@@ -33,13 +24,6 @@ python snitch_game_final.py
 - Catch the flying snitches
 - Build combos for bonus points!
 
-### Hogwarts Pest Control
-```bash
-python whack_a_mole_hp.py
-```
-- Make a CLOSED FIST
-- Punch down to whack creatures
-- Avoid hitting Dobby!
 
 ## 🛠️ Requirements
 
@@ -47,9 +31,6 @@ python whack_a_mole_hp.py
 - Webcam
 - Good lighting
 
-## 📸 Screenshots
-
-(Add screenshots here)
 
 ## 🎓 Built For
 
@@ -67,12 +48,9 @@ Free to use for educational purposes
 harry-potter-opencv-games/
 │
 ├── snitch_game_final.py
-├── whack_a_mole_hp.py
 ├── requirements.txt
 ├── README.md
-└── screenshots/
-    ├── snitch_game.png
-    └── whack_a_mole.png
+
 ```
 
 ---
