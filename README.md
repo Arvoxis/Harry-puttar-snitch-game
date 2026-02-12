@@ -46,7 +46,7 @@ Free to use for educational purposes
 ```
 harry-potter-opencv-games/
 │
-├── snitch_game_final.py
+├── snitch.py
 ├── requirements.txt
 ├── README.md
 
