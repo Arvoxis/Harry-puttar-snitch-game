@@ -17,8 +17,6 @@
 
 > Point your index finger at the camera and catch flying golden snitches in real time!
 
-*(Add a GIF/screenshot of gameplay here — even a photo from the expo works great!)*
-
 ---
 
 ## 🎮 Features
